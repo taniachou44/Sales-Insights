@@ -27,6 +27,8 @@ Success Criteria:
         * Sales Analysis stop data gathering manually in order to save 20% 
           of their business time and reinvest it value added activity.
           
+![Dashboard preview](https://github.com/taniachou44/Sales-Insights/blob/main/Dashboard.jpeg)
+          
 
 
 
